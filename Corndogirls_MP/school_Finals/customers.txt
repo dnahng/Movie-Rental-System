@@ -1,14 +1,14 @@
 Customer ID: 1
 Name: Miciella Decano
-Address: Istana Subd. Malagasang 1-F Imus Cavite
+Address: Cavite
 ===============================================
 Customer ID: 2
 Name: Erin Cordero
-Address: Springville Heights Molino, Bacoor
+Address: Bacoor
 ===============================================
 Customer ID: 3
 Name: Dana Huang
-Address: Monteverde, GMA Cavite
+Address: GMA Cavite
 ===============================================
 Customer ID: 4
 Name: Darla David
